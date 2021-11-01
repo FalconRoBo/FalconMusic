@@ -5,7 +5,7 @@ psutil
 pytgcalls[pyrogram]
 wheel
 python-arq
-aiohttp>=3.7.4
+aiohttp
 youtube_dl
 youtube_search_python
 youtube_search
