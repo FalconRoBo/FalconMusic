@@ -3,7 +3,7 @@ A sᴜᴘᴇʀʙ Tᴇʟᴇɢʀᴀᴍ VᴏɪᴄᴇCʜᴀᴛ Pʟᴀʏᴇʀ, ᴍᴀ
 
 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑭𝒂𝒍𝒄𝒐𝒏𝑹𝒐𝑩𝒐
 
-https://user-images.githubusercontent.com/73926361/130031249-1aa3bab3-0282-47ed-9ba1-b92508f56167.mp4
+https://user-images.githubusercontent.com/73926361/139638899-b6ffa4ad-4b98-4b5c-aebf-5e40d67881fa.mp4
 
 ---
 
