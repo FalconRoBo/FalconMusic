@@ -1,0 +1,1 @@
+worker: bash falcon.sh
